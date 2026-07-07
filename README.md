@@ -16,14 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Prasidh's GitHub stats](https://github-readme-stats.vercel.app/api?username=18pb&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18pb&layout=compact&theme=radical)
-
----
-
 ### 🔗 Connect with me
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rouxSolver/)
