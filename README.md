@@ -10,16 +10,29 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🔗 Connect with me
 
-![Skills](https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,express,mongodb,html,css,tailwind,git,github)
+<p>
+  <a href="https://leetcode.com/u/rouxSolver/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.linkedin.com/in/prasidhbhardwaj/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="mailto:prasidhbhardwaj03@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### 🔗 Connect with me
+### 🛠️ Languages and Tools
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rouxSolver/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasidhbhardwaj/)
+![Skills](https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,express,mongodb,html,css,tailwind,git,github)
 
 ---
 
